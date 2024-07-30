@@ -1,0 +1,64 @@
+D:\Code\.NET\Four\Four\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\.NET\Four\Four\bin\Debug\net8.0\appsettings.json
+D:\Code\.NET\Four\Four\bin\Debug\net8.0\Four.exe
+D:\Code\.NET\Four\Four\bin\Debug\net8.0\Four.deps.json
+D:\Code\.NET\Four\Four\bin\Debug\net8.0\Four.runtimeconfig.json
+D:\Code\.NET\Four\Four\bin\Debug\net8.0\Four.dll
+D:\Code\.NET\Four\Four\bin\Debug\net8.0\Four.pdb
+D:\Code\.NET\Four\Four\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Code\.NET\Four\Four\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\.NET\Four\Four\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\.NET\Four\Four\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\Four.csproj.AssemblyReference.cache
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\Four.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\Four.AssemblyInfoInputs.cache
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\Four.AssemblyInfo.cs
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\Four.csproj.CoreCompileInputs.cache
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\Four.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\Four.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\staticwebassets\msbuild.Four.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\staticwebassets\msbuild.build.Four.props
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Four.props
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Four.props
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\scopedcss\bundle\Four.styles.css
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\Four.csproj.Up2Date
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\Four.dll
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\refint\Four.dll
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\Four.pdb
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\Four.genruntimeconfig.cache
+D:\Code\.NET\Four\Four\obj\Debug\net8.0\ref\Four.dll
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\bin\Debug\net8.0\appsettings.json
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\bin\Debug\net8.0\Four.exe
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\bin\Debug\net8.0\Four.deps.json
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\bin\Debug\net8.0\Four.runtimeconfig.json
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\bin\Debug\net8.0\Four.dll
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\bin\Debug\net8.0\Four.pdb
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\Four.csproj.AssemblyReference.cache
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\Four.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\Four.AssemblyInfoInputs.cache
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\Four.AssemblyInfo.cs
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\Four.csproj.CoreCompileInputs.cache
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\Four.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\Four.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\staticwebassets\msbuild.Four.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\staticwebassets\msbuild.build.Four.props
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Four.props
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Four.props
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\scopedcss\bundle\Four.styles.css
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\Four.csproj.Up2Date
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\Four.dll
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\refint\Four.dll
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\Four.pdb
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\Four.genruntimeconfig.cache
+C:\Users\dhyey_zzpjaby\OneDrive\Internship\Day 3\Four\Four\Four\obj\Debug\net8.0\ref\Four.dll
