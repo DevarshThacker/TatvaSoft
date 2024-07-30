@@ -1,0 +1,4 @@
+"customer_id","first_name","last_name","email","No_Orders","Total"
+2,"John","Doe","johndoe@example.com","5","274.50"
+3,"Alice","Smith","alicesmith@example.com","2","145.00"
+1,"Hiren","Parejiya","hiren.parejiya@tatvasoft.com","4","280.75"

@@ -1,0 +1,15 @@
+"customer_id","first_name","last_name","email","created_date","updated_date"
+2,"John","Doe","johndoe@example.com","2024-05-20 23:02:47.310814+05:30",NULL
+3,"Alice","Smith","alicesmith@example.com","2024-05-20 23:02:47.310814+05:30",NULL
+4,"Bob","Johnson","bjohnson@example.com","2024-05-20 23:02:47.310814+05:30",NULL
+5,"Emma","Brown","emmabrown@example.com","2024-05-20 23:02:47.310814+05:30",NULL
+6,"Michael","Lee","michaellee@example.com","2024-05-20 23:02:47.310814+05:30",NULL
+7,"Sarah","Wilson","sarahwilson@example.com","2024-05-20 23:02:47.310814+05:30",NULL
+8,"David","Clark","davidclark@example.com","2024-05-20 23:02:47.310814+05:30",NULL
+9,"Olivia","Martinez","oliviamartinez@example.com","2024-05-20 23:02:47.310814+05:30",NULL
+10,"James","Garcia","jamesgarcia@example.com","2024-05-20 23:02:47.310814+05:30",NULL
+12,"Jennifer","Davis","jennifer.davis@example.com","2024-05-20 23:02:47.310814+05:30",NULL
+13,"Jennie","Terry","jennie.terry@example.com","2024-05-20 23:02:47.310814+05:30",NULL
+14,"JENNY","SMITH","jenny.smith@example.com","2024-05-20 23:02:47.310814+05:30",NULL
+15,"Hiren","Patel","hirenpatel@example.com","2024-05-20 23:02:47.310814+05:30",NULL
+1,"Hiren","Parejiya","hiren.parejiya@tatvasoft.com","2024-05-20 23:00:05.208407+05:30",NULL
